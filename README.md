@@ -1,7 +1,3 @@
-# LAS Project
-
-[This folder](https://github.com/ahmetdem/Projects/tree/main/LAS) contains the code for a project that allows organizations to register, track, and analyze user activity. 
-
 ## Getting Started
 
 To get started with the project, follow these steps:
